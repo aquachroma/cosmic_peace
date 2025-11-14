@@ -1,0 +1,274 @@
+TESS128_Capacity_Planner_Public
+===============================
+
+Title: TESS-128 Capacity Planner (Public Edition)
+Version: 1.0
+Language: English
+Status: Public Knowledge Release
+Last Updated: 2025-11-14
+
+
+1. Purpose of This Document
+---------------------------
+This Capacity Planner provides a **public-safe**, non-technical method to determine how many people, pets, tools, valence items, and resources a TESS-128 sphere can comfortably support.
+
+This planner helps communities:
+• size their living groups  
+• plan resource use  
+• determine valence-item limits  
+• maintain low-stress environments  
+• avoid overcrowding  
+• prepare for community growth  
+
+No mechanisms, routing logic, or protected technologies are included.
+
+
+2. What a TESS-128 “Capacity” Means
+------------------------------------
+Capacity is NOT defined by:
+• air handling  
+• electrical routing  
+• life-support systems  
+• internal harmonization tech  
+
+Instead, capacity is defined by **human well-being**:
+
+> “How many people can live, move, rest, and create together comfortably  
+>  while maintaining AQUEM stability and Social Quieting?”
+
+This means:
+• enough personal space  
+• enough emotional space  
+• enough storage for meaningful items  
+• predictable movement  
+• no chronic overcrowding  
+• low sensory turbulence  
+
+
+3. The Capacity Dimensions
+--------------------------
+Capacity has **five independent layers**:
+
+1. **Human Presence Capacity (HPC)**  
+2. **Extended Life Capacity (ELC)** — pets, small animals  
+3. **Valence Item Capacity (VIC)** — meaningful objects  
+4. **Functional Equipment Capacity (FEC)** — tools, gear  
+5. **Ambient Flow Capacity (AFC)** — environmental harmony load  
+
+These layers interact but do not replace one another.
+
+A TESS is full when **any one** of these capacities is exceeded.
+
+
+4. Diameter-Based Capacity Table
+--------------------------------
+Below is a **public-safe comfort model** based on diameter.
+
+It is not a life-support metric —  
+it is a **human ecology and emotional stability metric**.
+
+### 4.1 Human Presence Capacity (HPC)
+
+| Diameter | Comfort Range | Absolute Max (temporary) |
+|----------|---------------|---------------------------|
+| 1m       | 1 human (standing) | 1 |
+| 2m       | 1 human + 1 child | 2 |
+| 4m       | 3–4 humans | 6 |
+| 8m       | 10–14 humans | 18 |
+| 16m      | 35–55 humans | 70 |
+
+**Comfort range = full Social Quieting preserved**  
+**Absolute max = possible but not recommended long-term**
+
+
+### 4.2 Extended Life Capacity (ELC)  
+(Pets, small animals, potted plants)
+
+| Diameter | ELC |
+|----------|-----|
+| 1m       | 0–1 small animal |
+| 2m       | 1 small animal |
+| 4m       | 2–3 small animals |
+| 8m       | 6–8 small animals |
+| 16m      | 15–20 small animals |
+
+Wildlife, large animals, or agricultural units belong outside or in specialized TESS variants.
+
+
+### 4.3 Valence Item Capacity (VIC)  
+(Meaningful belongings with emotional weight)
+
+| Diameter | Low Stress Range |
+|----------|------------------|
+| 1m       | 1–3 items |
+| 2m       | 5–10 items |
+| 4m       | 20–30 items |
+| 8m       | 60–100 items |
+| 16m      | 200–400 items |
+
+Valence items beyond this range increase emotional clutter and reduce quieting.
+
+
+### 4.4 Functional Equipment Capacity (FEC)
+
+| Diameter | FEC (general tools, instruments, tech) |
+|----------|----------------------------------------|
+| 1m       | Almost none |
+| 2m       | 1 toolkit or 1 musical instrument |
+| 4m       | Light workshop OR small creative studio |
+| 8m       | Studio + workshop combo |
+| 16m      | Multiple workstations + shared tools |
+
+FEC loads must remain balanced with HPC and VIC to avoid noise amplification.
+
+
+### 4.5 Ambient Flow Capacity (AFC)
+AFC is qualitative, not numeric.
+
+Guideline:
+
+> If people must constantly sidestep one another,  
+> AFC is exceeded.
+
+Diameter vs AFC clarity:
+
+| Diameter | AFC Quality |
+|----------|-------------|
+| 1m       | Zero flow |
+| 2m       | Tight, workable |
+| 4m       | Local flow |
+| 8m       | Community flow |
+| 16m      | Full resonant flow |
+
+
+5. Combined Capacity — Social Quieting Thresholds
+-------------------------------------------------
+A TESS-128 sphere remains at peak stability when:
+
+1. HPC stays within the comfort range  
+2. ELC is below half of its nominal limit  
+3. VIC is between 40–60% of its max  
+4. FEC is concentrated but not cluttered  
+5. AFC remains unobstructed  
+
+Breaking more than **two** of these conditions produces:
+• elevated stress  
+• increased noise  
+• reduced emotional bandwidth  
+• slight unpredictability  
+• minor strain on AQUEM stabilization  
+
+Breaking **three or more** noticeably erodes Social Quieting.
+
+
+6. Example Scenarios
+--------------------
+
+### Scenario A — 8m Diameter, Creative Household
+• 12 people  
+• 2 pets  
+• ~80 meaningful items  
+• 1 workshop area  
+
+→ *Fully within comfort.*  
+Stability is excellent.
+
+---
+
+### Scenario B — 4m Diameter, Overcrowded Group
+• 6 people  
+• 3 pets  
+• 28 valence items  
+• 20 tools
+
+→ HPC, ELC, and FEC all at upper limits.  
+→ Social turbulence likely.  
+→ Recommended solution: expand into a second TESS unit.
+
+---
+
+### Scenario C — 16m Diameter, Community Hub
+• 40 people  
+• 10 animals  
+• 150 valence items  
+• multiple workstations  
+
+→ All values in mid-range.  
+→ Very high stability; expected to be a calm community core.
+
+
+7. The “Shape of Comfort” Graph (ASCII)
+---------------------------------------
+Comfort
+^
+|                     ●  16m
+|                ●  8m
+|          ●  4m
+|     ●  2m
+|  ● 1m
++———————————––> Diameter
+1      2     4      8     16
+
+Larger spheres generate:
+• smoother flow  
+• lower noise  
+• increased emotional bandwidth  
+• more capacity for meaningful items  
+
+
+8. Capacity and Resource Scaling
+--------------------------------
+
+### Sublinear scaling
+Doubling diameter quadruples area —  
+but **comfort scales faster** than area because movement becomes cleaner.
+
+### Snellian scaling
+As communities learn to operate in TESS environments:
+• their capacity expands,  
+• their stress falls,  
+• their efficiency rises,  
+• and their ability to replicate TESS units increases.
+
+This leads to:
+> *Communities with TESS stability tend to grow into peaceful, productive clusters,  
+> and replicate stability faster than they consume resources.*
+
+
+9. Public Safety Notes
+----------------------
+This planner **does not** define:
+• evacuation loads  
+• life-support math  
+• energy routing  
+• emergency thresholds  
+
+These depend on protected technologies not described here.
+
+
+10. Closing Perspective
+------------------------
+A TESS-128 is not defined by walls or geometry.
+
+Its true capacity comes from:
+• clarity  
+• movement  
+• calm  
+• emotional stability  
+• and the community’s ability to breathe together  
+
+When people feel unburdened,  
+they expand.
+
+When communities feel supported,  
+they flourish.
+
+When TESS capacity is respected,  
+Cosmic Peace becomes inevitable.
+
+
+------------------------------------------------------------
+End of File
+------------------------------------------------------------
+
+
