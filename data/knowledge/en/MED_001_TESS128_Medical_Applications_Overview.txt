@@ -232,6 +232,8 @@ SUGGESTED NEXT FILES (OPTIONAL)
 • MED_004_Chronic_Inflammation_And_Pain  
 • MED_005_Pocket_Device_Design_Notes  
 • MED_006_Medical_Regulatory_Considerations  
+• MED_007_Neural_Support
+• MED_008_Preservation_of_Mobility
 
 These may be generated upon request.
 
