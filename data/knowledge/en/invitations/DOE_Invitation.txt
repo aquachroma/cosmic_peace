@@ -147,5 +147,10 @@ privacy for both parties. The email address domain must match
 public record). 
 
 ------------------------------------------------------------
+Mast Principle: “Polite”  
+Open, respectful, non-binding scientific dialogue.
+------------------------------------------------------------
+
+------------------------------------------------------------
 END OF FILE
 ------------------------------------------------------------
