@@ -1,4 +1,4 @@
-Title: Interaction_08_Safe_Surface_Contact.txt
+Title: Interaction_06_Safe_Surface_Contact.txt
 Version: 1.0
 Status: Public Guidance Document
 Author: Pearl Chain Initiative
