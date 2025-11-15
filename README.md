@@ -288,8 +288,6 @@ HOW TO ENGAGE (GITHUB WORKFLOW)
 If you are reading this on GitHub:
 
     • Open an Issue with your question, critique, or scenario.
-    • The Cosmic Peace Knowledge Engine (an AI assistant) may respond
-      in a public comment, referencing specific files here.
     • You are encouraged to propose edits, new use cases, or
       missing perspectives.
 
